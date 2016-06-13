@@ -13,7 +13,7 @@
 ##################################
 
 
-## 0. Saving data from given URL and saving it locally
+## 0. Loading data from given URL and saving it locally
 
 # store locally
 if(!file.exists("./data")){dir.create("./data")}
